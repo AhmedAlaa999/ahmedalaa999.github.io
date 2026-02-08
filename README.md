@@ -22,3 +22,7 @@ This project simulates an online store where users can browse games, view detail
 1-⭐ Add game rating system
 
 2-🧠 Add search + filters
+
+📸 Screenshots
+----------------
+<img width="1344" height="647" alt="Traw Store" src="https://github.com/user-attachments/assets/9b343b55-dfba-484b-9703-0b8eddf37dfb" />
