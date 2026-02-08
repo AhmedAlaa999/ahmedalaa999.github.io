@@ -20,7 +20,9 @@ This project simulates an online store where users can browse games, view detail
 📸 Screenshots
 -----------------
 <img width="1344" height="647" alt="Traw Store" src="https://github.com/user-attachments/assets/dc1ce012-72ad-40bf-98f2-6e87d8f39dc1" />
+
 🌍 Live Demo
+-------------
 "https://ahmedalaa999.github.io"
 
 🛠️ Built With
