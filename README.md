@@ -16,3 +16,9 @@ This project simulates an online store where users can browse games, view detail
 5-🎨 Modern UI and clean styling
 
 6-⚡ Fast and lightweight
+
+📌 Future Improvements (Optional)
+
+⭐ Add game rating system
+
+🧠 Add search + filters
